@@ -1,3 +1,3 @@
-Campo Minado
+Criando o projeto campo minado.
 
-Java
+Java e JUnit 5
